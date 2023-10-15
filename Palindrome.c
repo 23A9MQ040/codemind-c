@@ -10,10 +10,10 @@ int main()
         a /= 10;
     }
     if(d==b){
-        printf("Palindrome");
+        printf("True");
     }
     else
     {
-        printf("Not Palindrome");
+        printf("False");
     }
 }
